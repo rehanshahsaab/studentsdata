@@ -1,0 +1,11 @@
+{
+    "students":[
+       { "name":"Akram" , "RegNo":"123456" , "CGPA":"3.70"},
+        {"name":"Rehan" , "RegNo":"011911" , "CGPA":"3.10"},
+        {"name":"Kamran" , "RegNo":"342115" , "CGPA":"3.50"},
+        {"name":"Ali" ,   "RegNo":"294830" , "CGPA":"2.7"}
+        
+        ]
+    
+    
+}
